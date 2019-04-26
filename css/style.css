@@ -1,0 +1,50 @@
+@charset "UTF-8";
+body {
+    line-height: 2;
+    background: url(../images/rosiaavanngyarudo.jpg);
+}
+
+h2 {
+    font-size: 25x;
+    width: 900px;
+    padding: 10px;
+    border: 10px double white;
+    margin: 10px;
+    background: blue;
+    list-style: none;
+    color: white;
+    text-shadow: 5px 5px 10px white;
+    background: rgba(255, 55, 0.5)
+}
+
+
+main {
+    width: 960px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+h1 {
+    font-size: 20px;
+    width: 300px;
+    padding: 10px;
+    border: 10px double white;
+    margin: 10px;
+    background: red;
+    list-style: none;
+    color: white;
+    text-shadow: 5px 5px 10px red;
+    background: rgba(255, 55, 0.5)
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+hr {
+    color: black
+}
+
+nav {
+    box-shadow: 5px 5px 10px red;
+}
